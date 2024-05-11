@@ -12,4 +12,7 @@ The Procedure For Running these files:
 8. Click On the Extension and Pin this Extension
 9. If you are Not having account insert account details
 10. we are using the Local storage as Data base {coz of Less time}
+# The tutorial Video is Here:
+
+https://github.com/nittsurendra/Chrome-Extension--Activity-Tracker/assets/103622956/cf56f7a7-ed4d-42b8-a2f1-3e9fd6ca4b0f
 
