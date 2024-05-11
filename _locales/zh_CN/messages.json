@@ -1,0 +1,384 @@
+{
+   "2min": {
+      "message": "分钟"
+   },
+   "5mins": {
+      "message": "再加 5 分钟"
+   },
+   "aboutSettings": {
+      "message": "关于"
+   },
+   "addWebsite": {
+      "message": "添加网站"
+   },
+   "aggregate": {
+      "message": "汇总数据自"
+   },
+   "allTime": {
+      "message": "总时间"
+   },
+   "allowDeferringBlock": {
+      "description": "站点被拦截后，您一天中只能将拦截推迟 5 分钟一次。",
+      "message": "允许推迟拦截 5 分钟"
+   },
+   "averageDailyUsage": {
+      "message": "平均每日使用量"
+   },
+   "averageTime": {
+      "message": "活动日的平均时间"
+   },
+   "averageTimeByDays": {
+      "message": "所选日期的平均时间"
+   },
+   "backup": {
+      "message": "备份"
+   },
+   "backupAndRestore": {
+      "description": "您可以下载所有访问过网站的所有数据的备份副本。",
+      "message": "备份和恢复"
+   },
+   "block": {
+      "message": "您今天已达到限制在 "
+   },
+   "browse": {
+      "description": "当您访问任何网站时，您会看到时间显示在图标上，就像这里一样：",
+      "message": "浏览任何网站"
+   },
+   "byDays": {
+      "message": "每天"
+   },
+   "byHours": {
+      "message": "每小时"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cannotOpenFile": {
+      "message": "由于安全协议，您无法打开本地文件"
+   },
+   "clearYoutube": {
+      "description": "Chrome扩展程序，可以隐藏YouTube短片，推荐视频，评论，feed，主页推荐和其他分心。 观看YouTube免费分心。",
+      "message": "Clean YouTube"
+   },
+   "clickToPreview": {
+      "message": "点击收听"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "comparedToYesterday": {
+      "message": " 与昨天相比 "
+   },
+   "completelyBlocked": {
+      "description": "完全封锁",
+      "message": "完全封锁"
+   },
+   "d": {
+      "message": "d"
+   },
+   "darkTheme": {
+      "message": "黑暗主题"
+   },
+   "dashboard": {
+      "message": "仪表板"
+   },
+   "days": {
+      "message": "天"
+   },
+   "deferringDescription": {
+      "message": "您一天只能将拦截推迟 5 分钟一次。"
+   },
+   "doYouEnjoy": {
+      "message": "您喜欢 Web Activity Time Tracker 吗？"
+   },
+   "document": {
+      "message": "文件"
+   },
+   "enjoyAndReview": {
+      "description": "给 Web Activity Time Tracker 评分",
+      "message": "喜欢这个扩展程序吗？"
+   },
+   "enterNotification": {
+      "message": "输入通知消息..."
+   },
+   "enterWebsite": {
+      "message": "输入网站名称..."
+   },
+   "exportToCsv": {
+      "message": "导出 CSV"
+   },
+   "exportToCsvSetting": {
+      "description": "您可以导出任何日期范围内的网站活动。",
+      "message": "将您的网站活动数据导出为 CSV 格式"
+   },
+   "extDescription": {
+      "message": "追踪和限制您的网站活动时间，并阻止访问网站。监控您的网站使用情况"
+   },
+   "extName": {
+      "message": "Web Activity Time Tracker - 阻止网站、网络分析和番茄钟"
+   },
+   "firstActiveDay": {
+      "message": "第一个活动日"
+   },
+   "generalSettings": {
+      "message": "设置"
+   },
+   "getStarted": {
+      "message": "开始使用"
+   },
+   "github": {
+      "message": "在以下位置留下您的反馈或报告问题："
+   },
+   "h": {
+      "message": "h"
+   },
+   "intervalInactivity": {
+      "description": "可以是使用鼠标或键盘进行的任何操作",
+      "message": "如果没有操作，则停止跟踪器："
+   },
+   "intervals": {
+      "message": "时间间隔"
+   },
+   "intervalsChart": {
+      "description": "展示",
+      "message": "只有时间间隔大于"
+   },
+   "lastMonth": {
+      "message": "上月"
+   },
+   "limit": {
+      "message": "限制"
+   },
+   "limits": {
+      "description": "设置每天允许访问网站的最长时间。超过此时间后，该网站将被拦截。",
+      "message": "网站的每日访问限制"
+   },
+   "limitsSettings": {
+      "message": "限制"
+   },
+   "limitsTip": {
+      "message": "如果您将拦截时间设置为 0 小时 0 分钟，那么该网站将立即被拦截。"
+   },
+   "m": {
+      "message": "m"
+   },
+   "min": {
+      "message": "分钟"
+   },
+   "mins": {
+      "message": "分钟"
+   },
+   "month": {
+      "message": "本月"
+   },
+   "mostActiveDay": {
+      "message": "最活跃的一天"
+   },
+   "mostInactiveDay": {
+      "message": "最不活跃的一天"
+   },
+   "mostVisited": {
+      "message": "访问最多的网站 "
+   },
+   "next": {
+      "message": "接下来"
+   },
+   "noData": {
+      "message": "无数据"
+   },
+   "noDataForPeriod": {
+      "message": "所选时间段内无数据"
+   },
+   "notificationMessage": {
+      "description": "每次在网站通知中，您都会看到这条消息。",
+      "message": "通知消息"
+   },
+   "notificationTime": {
+      "description": "每次在网站上花费特定时间时显示通知。",
+      "message": "网站通知"
+   },
+   "notificationTimeSetting": {
+      "message": "包含有关您日常使用情况的摘要信息的通知时间："
+   },
+   "notificationsSettings": {
+      "message": "通知"
+   },
+   "numberOfActiveDays": {
+      "message": "活动天数"
+   },
+   "pinIcon": {
+      "message": "固定图标"
+   },
+   "pinIconPart1": {
+      "message": "为了更方便地使用此扩展程序，您可以将图标固定到工具栏上。点击图标："
+   },
+   "pinIconPart2": {
+      "message": "然后点击固定图标。"
+   },
+   "pomodoro": {
+      "description": "Pomodoro 工作法是一种时间管理技术，以交替集中工作和休息为基础。根据经典的 Pomodoro 方法，工作时间为 25 分钟，休息时间为 5 分钟。",
+      "message": "Pomodoro"
+   },
+   "pomodoroExplanationIcon": {
+      "description": "在休息时间，您会看到这个扩展图标",
+      "message": "启用 Pomodoro 模式并激活操作模式后，您将看到以下图标"
+   },
+   "pomodoroExplanationStop": {
+      "message": "按下 '停止' 键后，运行时间和休息时间将重置为零"
+   },
+   "pomodoroExplanationTime": {
+      "message": "在 Pomodoro 模式下，扩展会继续考虑你在网站上花费的时间、所有限制和通知。"
+   },
+   "pomodoroFrequency": {
+      "message": "重复次数"
+   },
+   "pomodoroIsEnabled": {
+      "message": "番茄钟模式已启用"
+   },
+   "pomodoroMode": {
+      "message": "Pomodoro"
+   },
+   "pomodoroRest": {
+      "message": "休息时间"
+   },
+   "pomodoroSettings": {
+      "message": "Pomodoro 设置"
+   },
+   "pomodoroSoundAfter": {
+      "message": "完整时段后的声音"
+   },
+   "pomodoroWork": {
+      "message": "工作期限"
+   },
+   "promoClearYoutube": {
+      "description": "安装",
+      "message": "您想屏蔽短片、评论、推荐视频、订阅和其他 YouTube 干扰内容吗？ 我们创建了另一个扩展程序，可帮助您不受干扰地观看 YouTube"
+   },
+   "question": {
+      "message": "您还可以提问并留下您的建议。"
+   },
+   "remove": {
+      "message": "删除"
+   },
+   "removeAllData": {
+      "description": "您可以删除所有访问过网站的所有数据和统计信息。",
+      "message": "删除所有数据"
+   },
+   "removeAllDataConfirm": {
+      "message": "您确定要删除所有数据吗？"
+   },
+   "restore": {
+      "message": "恢复"
+   },
+   "review": {
+      "message": "留下评论吧！"
+   },
+   "s": {
+      "message": "s"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "sec": {
+      "message": "秒"
+   },
+   "seeData": {
+      "description": "点击扩展图标以打开弹出页面，您将能够使用饼图读取数据可视化信息，包括今天、所有时间或按天分类。在弹出窗口中，您可以打开仪表板，它将按时钟显示您今天的时间。您还可以为任何网站设置每日时间限制、网站通知或导出数据到 CSV。",
+      "message": "在弹出页面和仪表板上查看您的数据"
+   },
+   "session": {
+      "message": "会话"
+   },
+   "sessions": {
+      "message": "会话"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "showAll": {
+      "message": "显示所有网站"
+   },
+   "showChangelog": {
+      "description": "显示更新扩展程序后的更改列表",
+      "message": "显示更新日志"
+   },
+   "showDailyNotifacation": {
+      "description": "每天结束时，您将收到一条通知，其中包含您的每日使用情况摘要。",
+      "message": "每日摘要通知"
+   },
+   "someSession": {
+      "message": "会话"
+   },
+   "sortBy": {
+      "message": "排序"
+   },
+   "sound": {
+      "message": "声音"
+   },
+   "start": {
+      "message": "启动"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "supportForm": {
+      "message": "支持表单"
+   },
+   "timeChartDescription": {
+      "message": "这是按小时显示一天时间的图表。"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "todayEcclude": {
+      "message": "今天不包含在统计数据中。点击以包含。"
+   },
+   "todayInclude": {
+      "message": "今天包含在统计数据中。点击以排除。"
+   },
+   "todayTime": {
+      "message": "今天所有的时间"
+   },
+   "todayUsageTime": {
+      "message": "今天的总使用时间"
+   },
+   "totalNumberOfDays": {
+      "message": "总天数"
+   },
+   "trackerjam": {
+      "description": "团队自动网络跟踪器。为每个团队成员提供详细报告，包括在网站上花费的时间、域内任何 URL 的跟踪、工作效率评分、顶级域分类等。",
+      "message": "TrackerJam"
+   },
+   "tryMyOtherApps": {
+      "message": "试试我的其他应用程序"
+   },
+   "usageTime": {
+      "message": "使用时间"
+   },
+   "useExtension": {
+      "message": "使用扩展程序"
+   },
+   "viewTimeInBadge": {
+      "description": "您可以在扩展程序图标上以简短格式查看当前的“花费时间”信息。",
+      "message": "在图标中显示时间跟踪器"
+   },
+   "websites": {
+      "message": "网站"
+   },
+   "week": {
+      "message": "本周"
+   },
+   "welcome": {
+      "description": "Web Activity Time Tracker  是一款\u003Cb>开源\u003C/b>、\u003Cb>免费\u003C/b>且\u003Cb>无广告\u003C/b>的扩展程序，它可以帮助您跟踪在浏览网站上花费的时间和访问次数。",
+      "message": "欢迎使用 Web Activity Time Tracker"
+   },
+   "welcomeStart": {
+      "message": "您可以通过三个简单的步骤快速开始使用扩展程序："
+   },
+   "whiteList": {
+      "message": "这些网站的活动和花费时间将不会被跟踪。"
+   },
+   "whiteListSettings": {
+      "message": "白名单"
+   }
+}

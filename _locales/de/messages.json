@@ -1,0 +1,384 @@
+{
+   "2min": {
+      "message": "Minuten"
+   },
+   "5mins": {
+      "message": "+ 5 Minuten"
+   },
+   "aboutSettings": {
+      "message": "Über die Erweiterung"
+   },
+   "addWebsite": {
+      "message": "Website hinzufügen"
+   },
+   "aggregate": {
+      "message": "Gesammelte Daten seit"
+   },
+   "allTime": {
+      "message": "Gesamte Zeit"
+   },
+   "allowDeferringBlock": {
+      "description": "Nachdem die Site gesperrt wurde, können Sie die Sperrung einmal täglich um 5 Minuten verschieben",
+      "message": "Verzögerung der Sperre um 5 Minuten zulassen"
+   },
+   "averageDailyUsage": {
+      "message": "Durchschnittliche tägliche Nutzung"
+   },
+   "averageTime": {
+      "message": "Durchschnittliche Zeit an aktiven Tagen"
+   },
+   "averageTimeByDays": {
+      "message": "Durchschnittliche Zeit für ausgewählte Tage"
+   },
+   "backup": {
+      "message": "Sicherung"
+   },
+   "backupAndRestore": {
+      "description": "Sie können eine Sicherungskopie aller Daten für alle besuchten Websites herunterladen",
+      "message": "Sicherung und Wiederherstellen"
+   },
+   "block": {
+      "message": "Sie haben Ihr tägliches Nutzungslimit erreicht für "
+   },
+   "browse": {
+      "description": "Wenn Sie eine Website besuchen, werden Sie sehen, dass die Uhrzeit auf dem Symbol angezeigt wird, genau wie hier",
+      "message": "Durchsuchen Sie alle Websites"
+   },
+   "byDays": {
+      "message": "Täglich"
+   },
+   "byHours": {
+      "message": "Stundenweise"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "cannotOpenFile": {
+      "message": "Aufgrund des Sicherheitsprotokolls können Sie eine lokale Datei nicht öffnen"
+   },
+   "clearYoutube": {
+      "description": "Chrome-Erweiterung, die YouTube-Shorts, empfohlene Videos, Kommentare, Feeds, Homepage-Empfehlungen und andere Ablenkungen ausblenden kann. Sieh dir YouTube ohne Ablenkungen an.",
+      "message": "Clean YouTube"
+   },
+   "clickToPreview": {
+      "message": "Zum Anhören klicken"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "comparedToYesterday": {
+      "message": " im Vergleich zu gestern "
+   },
+   "completelyBlocked": {
+      "description": "Vollständig blockieren",
+      "message": "Vollständig blockiert"
+   },
+   "d": {
+      "message": "d"
+   },
+   "darkTheme": {
+      "message": "Dunkles Thema"
+   },
+   "dashboard": {
+      "message": "Übersicht"
+   },
+   "days": {
+      "message": "Tage"
+   },
+   "deferringDescription": {
+      "message": "Die Sperre kann nur einmal pro Tag um 5 Minuten verschoben werden"
+   },
+   "doYouEnjoy": {
+      "message": "Gefällt Ihnen diese Erweiterung?"
+   },
+   "document": {
+      "message": "Dokument"
+   },
+   "enjoyAndReview": {
+      "description": "Web Activity Time Tracker bewerten",
+      "message": "Gefällt Ihnen diese Erweiterung?"
+   },
+   "enterNotification": {
+      "message": "Text für die Benachrichtigung eingeben..."
+   },
+   "enterWebsite": {
+      "message": "Namen der Website eingeben..."
+   },
+   "exportToCsv": {
+      "message": "Als CSV exportieren"
+   },
+   "exportToCsvSetting": {
+      "description": "Ihre Webaktivitäten für einen beliebigen Zeitraum exportieren",
+      "message": "Ihre Webaktivitätsdaten als CSV-Datei exportieren"
+   },
+   "extDescription": {
+      "message": "Verfolgen und begrenzen Sie die Zeit Ihrer Webaktivitäten und blockieren Sie den Zugang zu den Websites. Überwachen Sie Ihre Internetnutzung."
+   },
+   "extName": {
+      "message": "Web Activity Time Tracker - Blockieren Sie Websites und Webanalysen"
+   },
+   "firstActiveDay": {
+      "message": "Der erste aktive Tag"
+   },
+   "generalSettings": {
+      "message": "Einstellungen"
+   },
+   "getStarted": {
+      "message": "Anleitung"
+   },
+   "github": {
+      "message": "Feedback zur Erweiterung geben oder ein Problem melden: "
+   },
+   "h": {
+      "message": "h"
+   },
+   "intervalInactivity": {
+      "description": "Betrifft alle Aktionen mit der Maus oder der Tastatur",
+      "message": "Zeiterfassung stoppen, bei Inaktivität für:"
+   },
+   "intervals": {
+      "message": "Intervalle"
+   },
+   "intervalsChart": {
+      "description": "werden angezeigt",
+      "message": "Nur Zeitintervalle größer als"
+   },
+   "lastMonth": {
+      "message": "Letzter Monat"
+   },
+   "limit": {
+      "message": "Limit"
+   },
+   "limits": {
+      "description": "Legen Sie die maximale Zeit fest, die pro Tag für den Besuch der Website zulässig ist. Nach dieser Zeit wird die Website gesperrt.",
+      "message": "Tägliche Zugriffsbeschränkungen für Websites"
+   },
+   "limitsSettings": {
+      "message": "Beschränkungen"
+   },
+   "limitsTip": {
+      "message": "Setzen Sie die Blockierungszeit auf 0 Stunden 0 Minuten, um die Website sofort zu blockieren."
+   },
+   "m": {
+      "message": "m"
+   },
+   "min": {
+      "message": "Minute"
+   },
+   "mins": {
+      "message": "Minuten"
+   },
+   "month": {
+      "message": "Diesen Monat"
+   },
+   "mostActiveDay": {
+      "message": "Der aktivste Tag"
+   },
+   "mostInactiveDay": {
+      "message": "Der inaktivste Tag"
+   },
+   "mostVisited": {
+      "message": "Die meistbesuchte Website "
+   },
+   "next": {
+      "message": "Weiter"
+   },
+   "noData": {
+      "message": "Keine Daten verfügbar"
+   },
+   "noDataForPeriod": {
+      "message": "Keine Daten für den ausgewählten Zeitraum"
+   },
+   "notificationMessage": {
+      "description": "Dieser Text wird in der Benachrichtigung für Websites angezeigt",
+      "message": "Benachrichtigungstext"
+   },
+   "notificationTime": {
+      "description": "Jedes Mal eine Benachrichtigung anzeigen, wenn Sie den angegebenen Zeitraum auf einer Website verbringen.",
+      "message": "Benachrichtigungen für Websites"
+   },
+   "notificationTimeSetting": {
+      "message": "Tägliche Zusammenfassung um folgende Uhrzeit anzeigen:"
+   },
+   "notificationsSettings": {
+      "message": "Benachrichtigungen"
+   },
+   "numberOfActiveDays": {
+      "message": "Gesamtzahl der aktiven Tage"
+   },
+   "pinIcon": {
+      "message": "Pin das Symbol"
+   },
+   "pinIconPart1": {
+      "message": "Um diese Erweiterung bequemer zu verwenden, können Sie das Symbol an die Symbolleiste anheften. Klicken Sie auf das Symbol"
+   },
+   "pinIconPart2": {
+      "message": "und klicken Sie dann auf das Pin-Symbol"
+   },
+   "pomodoro": {
+      "description": "Die Pomodoro-Methode ist eine Zeitmanagementtechnik, die auf dem Wechsel von konzentrierten Arbeits- und Ruhephasen basiert. Bei der klassischen Pomodoro-Methode dauert die Arbeitsphase 25 Minuten und die Ruhephase 5 Minuten.",
+      "message": "Pomodoro"
+   },
+   "pomodoroExplanationIcon": {
+      "description": "Während der Ruhezeiten sehen Sie dieses Erweiterungssymbol",
+      "message": "Wenn der Pomodoro-Modus aktiviert ist und der Betriebsmodus aktiv ist, sehen Sie dieses Symbol"
+   },
+   "pomodoroExplanationStop": {
+      "message": "Nach dem Drücken von 'Stop' werden die Betriebs- und Ruhezeiten auf Null zurückgesetzt."
+   },
+   "pomodoroExplanationTime": {
+      "message": "Während des Pomodoro-Modus berücksichtigt die Erweiterung weiterhin die Zeit, die Sie auf den Seiten verbracht haben, alle Grenzen und Benachrichtigungen funktionieren."
+   },
+   "pomodoroFrequency": {
+      "message": "Anzahl der Wiederholungen"
+   },
+   "pomodoroIsEnabled": {
+      "message": "Der Pomodoro-Modus ist aktiviert"
+   },
+   "pomodoroMode": {
+      "message": "Pomodoro"
+   },
+   "pomodoroRest": {
+      "message": "Ruhezeit"
+   },
+   "pomodoroSettings": {
+      "message": "Pomodoro Einstellungen"
+   },
+   "pomodoroSoundAfter": {
+      "message": "Ton nach vollständiger Periode"
+   },
+   "pomodoroWork": {
+      "message": "Zeitraum der Arbeit"
+   },
+   "promoClearYoutube": {
+      "description": "Install",
+      "message": "Möchten Sie Kurzfilme, Kommentare, empfohlene Videos, Abonnements und andere YouTube-Ablenkungen blockieren? Wir haben eine weitere Erweiterung erstellt, mit der Sie YouTube ohne Ablenkung ansehen können."
+   },
+   "question": {
+      "message": "Eine Frage stellen oder Verbesserungen vorschlagen: "
+   },
+   "remove": {
+      "message": "Löschen"
+   },
+   "removeAllData": {
+      "description": "Alle Daten und Statistiken der besuchten Websites für immer löschen.",
+      "message": "Alle Daten entfernen"
+   },
+   "removeAllDataConfirm": {
+      "message": "Sind Sie sicher, dass Sie alle Daten löschen möchten?"
+   },
+   "restore": {
+      "message": "Wiederherstellen"
+   },
+   "review": {
+      "message": "Schreiben Sie eine Bewertung!"
+   },
+   "s": {
+      "message": "s"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "sec": {
+      "message": "Sekunden"
+   },
+   "seeData": {
+      "description": "Klicken Sie auf das Erweiterungssymbol, um eine Popup-Seite zu öffnen, und Sie können die mit einem Kreisdiagramm gerenderten Daten für heute, für alle Zeiten oder für Tage lesen. In einem Popup-Fenster können Sie das Dashboard öffnen, und es zeigt Ihnen die heutige Zeit nach Stunden an. Und Sie können ein tägliches Zeitlimit für alle Websites festlegen, Benachrichtigungen für Websites festlegen oder Daten in CSV exportieren.",
+      "message": "Zeigen Sie Ihre Daten auf der Popup-Seite und im Dashboard an"
+   },
+   "session": {
+      "message": "Sitzung"
+   },
+   "sessions": {
+      "message": "Sitzungen"
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "showAll": {
+      "message": "Alle Websites anzeigen"
+   },
+   "showChangelog": {
+      "description": "Zeigen Sie die Liste der Änderungen nach dem Aktualisieren der Erweiterung an",
+      "message": "Änderungsliste anzeigen"
+   },
+   "showDailyNotifacation": {
+      "description": "Am Ende jedes Tages erhalten Sie eine Benachrichtigung mit einer Zusammenfassung Ihrer täglichen Nutzung.",
+      "message": "Tägliche Zusammenfassung als Benachrichtigung"
+   },
+   "someSession": {
+      "message": "Sitzungen"
+   },
+   "sortBy": {
+      "message": "Sortieren nach"
+   },
+   "sound": {
+      "message": "Ton"
+   },
+   "start": {
+      "message": "Starten Sie"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "supportForm": {
+      "message": "Unterstützungsformular"
+   },
+   "timeChartDescription": {
+      "message": "Dies ist eine stundenweise Zeitleiste für den Tag"
+   },
+   "today": {
+      "message": "Heute"
+   },
+   "todayEcclude": {
+      "message": "Der heutige Tag ist aus der Statistik ausgeschlossen. In die Statistik einbeziehen."
+   },
+   "todayInclude": {
+      "message": "Der heutige Tag ist in der Statistik enthalten. Aus der Statistik ausschließen."
+   },
+   "todayTime": {
+      "message": "Gesamtzeit heute"
+   },
+   "todayUsageTime": {
+      "message": "Bisherige Gesamtnutzungszeit "
+   },
+   "totalNumberOfDays": {
+      "message": "Alle Tage"
+   },
+   "trackerjam": {
+      "description": "Automatischer Web-Tracker für Teams. Detaillierte Berichte für jedes Teammitglied, mit detaillierten Angaben zur auf Websites verbrachten Zeit, Verfolgung aller URLs innerhalb der Domain, Produktivitätsbewertungen, Top-Domains mit Kategorien usw.",
+      "message": "TrackerJam"
+   },
+   "tryMyOtherApps": {
+      "message": "Probieren Sie meine anderen Apps aus"
+   },
+   "usageTime": {
+      "message": "Verwendungszeit"
+   },
+   "useExtension": {
+      "message": "Verwenden Sie die Erweiterung"
+   },
+   "viewTimeInBadge": {
+      "description": "Die aktuellen Informationen zur \"verbrauchten Zeit\" im Kurzformat anzeigen",
+      "message": "Zeitindikator anzeigen"
+   },
+   "websites": {
+      "message": "Webseiten"
+   },
+   "week": {
+      "message": "Diese Woche"
+   },
+   "welcome": {
+      "description": "Web Activity Time Tracker ist eine \u003Cb>open-source\u003C/b>, \u003Cb>kostenlose\u003C/b> und \u003Cb>werbefreie\u003C/b> Erweiterung, mit der Sie die Zeit, die Sie für das Durchsuchen von Websites aufgewendet haben, und die Anzahl der Besuche nachverfolgen können.",
+      "message": "Willkommen bei Web Activity Time Tracker"
+   },
+   "welcomeStart": {
+      "message": "Sie können die Erweiterung in nur 3 einfachen Schritten schnell verwenden"
+   },
+   "whiteList": {
+      "message": "Aktivität und Zeit für diese Websites werden nicht erfasst."
+   },
+   "whiteListSettings": {
+      "message": "Weiße Liste"
+   }
+}
