@@ -1,0 +1,30 @@
+{
+   "action": {
+      "default_popup": "src/main.html",
+      "default_title": "Web Activity Time Tracker"
+   },
+   "background": {
+      "service_worker": "src/background.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "128x128.png",
+      "16": "16x16.png",
+      "32": "32x32.png",
+      "48": "48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn+0LKo0PTALcaT00HRRNO/As716MX1fzJ0YqWVIQj0q9npARvg4k52PEsy9j9QMzXv49o/2b3GcDKOnWUXKVMaF5HRKQFsUZWpwieqHcSvC+t2NbgflYjcFaGaxFFWCn77O5jATPML6g2G/tkPaJs7u3A5RRMfTfY4SY7Oc1fSc2+W2nys35tXLSLP79V/LFhRulTjK8bEsevSjRQ4GKhgTgvle53mHYktYgGXJyVol4YPm6YZ0BwXYl7SvDJGSI0htPRm9HCh6XtKBfJmvD0YagV0lyyHunLHpHMbdgJFs8oPmj+HUrcXq4sqYXVH43GLCjQZ5tj+v0pe4d7ZpaMwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "offline_enabled": true,
+   "options_page": "src/dashboard.html",
+   "permissions": [ "tabs", "activeTab","storage", "idle", "unlimitedStorage", "alarms", "notifications", "offscreen" ],
+   "short_name": "Web Tracker",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.22",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/pomodoro-sounds/*.mp3" ]
+   } ]
+}
