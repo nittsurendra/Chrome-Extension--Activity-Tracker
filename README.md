@@ -11,3 +11,5 @@ The Procedure For Running these files:
 7. Upload Folder which is having # manifest.json file
 8. Click On the Extension and Pin this Extension
 9. If you are Not having account insert account details
+10. we are using the Local storage as Data base {coz of Less time}
+
